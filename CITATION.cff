@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or parameter dataset, please cite the accompanying work."
+title: "Battery Lifetime Prediction for Low-Power IoT Devices: open-source reference implementation"
+type: software
+authors:
+  - family-names: "Nabavi"
+    given-names: "Seyed Mohammad Hossein"
+  - family-names: "Hajforoosh"
+    given-names: "Somayeh"
+  - family-names: "Nabavi"
+    given-names: "Seyed Mohammad Amin"
+version: 0.1.0
+date-released: 2026-09-25
+license: MIT
+repository-code: "https://github.com/hnnabavi/iot-battery-lifetime-prediction"
+preferred-citation:
+  type: article
+  title: "Battery Lifetime Prediction for Low-Power IoT Devices: An Uncertainty-Aware Cross-Chemistry Framework"
+  authors:
+    - family-names: "Nabavi"
+      given-names: "Seyed Mohammad Hossein"
+    - family-names: "Hajforoosh"
+      given-names: "Somayeh"
+    - family-names: "Nabavi"
+      given-names: "Seyed Mohammad Amin"
+  year: 2026
