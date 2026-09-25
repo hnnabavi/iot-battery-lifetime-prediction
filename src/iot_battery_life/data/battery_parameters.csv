@@ -1,0 +1,13 @@
+id,label,family,tf,V,C,i_ref,n,sdr,tmin,tmax,Ea_sd,Ea_age,fade1,cycles,ed,srctype,source
+Li-SOCl2,Li-SOCl2,primary,primary,3.6,2.60,1.0,1.10,0.083,-60,85,45,,,,590,datasheet-backed anchor,Saft LS 14500
+Li-MnO2,Li-MnO2,primary,primary,3.0,1.55,1.0,1.08,0.100,-40,60,45,,,,350,class default,replace with cell-specific datasheet
+Li-SO2,Li-SO2,primary,primary,2.8,2.40,1.0,1.05,1.000,-55,70,40,,,,260,class default,replace with cell-specific datasheet
+Li-FeS2,Li-FeS2,primary,primary,1.5,3.00,1.0,1.06,0.083,-40,60,45,,,,480,datasheet-backed anchor,Energizer L91
+Li-CFx,Li-(CF)x,primary,primary,2.8,2.40,1.0,1.04,0.050,-40,85,45,,,,400,class default,replace with cell-specific datasheet
+Li-CuO,Li-CuO,primary,primary,1.5,2.20,1.0,1.05,0.100,-20,70,40,,,,300,class default,replace with cell-specific datasheet
+Li-V2O5,Li-V2O5,primary,primary,3.0,2.00,1.0,1.05,0.100,-20,60,40,,,,290,class default,replace with cell-specific datasheet
+Li-BrCl,Li-BrCl,primary,primary,3.9,3.40,1.0,1.03,1.500,-20,70,35,,,,420,class default,replace with cell-specific datasheet
+Li-I2,Li-I2,primary,primary,2.8,1.00,1.0,1.05,0.300,-20,60,40,,,,200,class default,replace with cell-specific datasheet
+LFP,LFP,secondary,liion,3.2,2.50,1.0,1.02,2.500,-20,60,50,50,2.0,3000,120,class default,replace with cell-specific ageing and storage data
+NMC,NMC,secondary,liion,3.7,2.80,1.0,1.02,2.500,-20,60,50,50,3.0,1500,200,class default,replace with cell-specific ageing and storage data
+NCA,NCA,secondary,liion,3.6,3.00,1.0,1.02,2.500,-20,60,50,50,3.5,1000,240,class default,replace with cell-specific ageing and storage data
